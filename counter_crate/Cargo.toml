@@ -1,0 +1,10 @@
+[package]
+name = "counter_crate"
+version = "0.1.0"
+authors = ["imran mirza <hisence1@gmail.com>"]
+edition = "2018"
+description= "by using this crate you put start value and end value of counter and print it in main.rs"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+licence="hisence"
+repository="https://github.com/imran3737/my-first-welcome-repo"
+[dependencies]
